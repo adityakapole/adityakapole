@@ -31,7 +31,7 @@ Passionate about leveraging the power of data and artificial intelligence, I am 
 <tr>
 <td>Development</td>
 <td>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,pug,handlebars" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,php" />
   </a>
 </td>
 </tr>
@@ -55,8 +55,8 @@ Passionate about leveraging the power of data and artificial intelligence, I am 
 <td>Backend Framework</td>
 <td> 
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    <img height="50rem" src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ADjango_logo.svg&psig=AOvVaw2zaE7QS2yAy4OtSqCbe5iy&ust=1702998731737000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj_9YmjmYMDFQAAAAAdAAAAABAD'/>
-    <img height="50rem" src = './flask.png/'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" width="42" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
    </a>
 </td>
 </tr>
@@ -73,7 +73,21 @@ Passionate about leveraging the power of data and artificial intelligence, I am 
 <td>Tools</td>
 <td> 
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
-    <img src="./jupyter.png" height="50rem"/>
+    
+  </a>
+</td>
+</tr>
+<td>Others </td>
+<td> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="42" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="42" alt="pandas logo"  />
+
   </a>
 </td>
 </tr>
