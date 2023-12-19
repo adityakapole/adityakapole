@@ -2,7 +2,7 @@
 
 Passionate about leveraging the power of data and artificial intelligence, I am currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science. With a strong foundation in data analytics, machine learning, and programming, I am driven to carve a successful career as a Data Scientist.
 
-  <img align="right" alt="GIF" src="code.gif" width="1000" height="380" />
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Aditya+Kapole;Nice+to+meet+you!">
 </p>
